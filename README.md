@@ -23,6 +23,8 @@ Technologies Used
 - SQLite
 - SQL
 - Mermaid Live Editor
+- 
+GitHub Repository: https://github.com/JeremiahBabatundeIshola/CSC303-Lab-Assessment
 
 Institution
 Miva Open University
